@@ -1,0 +1,16 @@
+{
+  "name": "radiosavta-chrome",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marik Shnitman <mark22312@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "lint": "eslint"
+  },
+  "devDependencies": {
+    "eslint": "^6.4.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}

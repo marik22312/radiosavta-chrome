@@ -1,0 +1,28 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.main {
+	width: 300px;
+	display: flex;
+	justify-content: space-around;
+
+	.logo {
+		max-width: 50px;
+		img {
+			width: 100%;
+		}
+	}
+
+	.player-container {
+		.player-controls {
+			.play-pause {
+				color: green;
+			}
+		}
+
+		.current-song {
+			font-size: 10px;
+		}
+	}
+}
